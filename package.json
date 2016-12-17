@@ -1,6 +1,6 @@
 {
   "name": "gulp-kyh-inline-source",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Inline flagged js & css sources.",
   "license": "MIT",
   "author": "Filip Malinowski <filip@fmal.me>",
